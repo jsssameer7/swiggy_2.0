@@ -1,0 +1,20 @@
+{
+  "name": "swiggy-2.0-fullstack",
+  "version": "1.0.0",
+  "description": "Swiggy 2.0 - Social Food Ordering & Group Delivery Platform with Supabase and Threats-to-Opportunities Transformation",
+  "scripts": {
+    "start": "node backend/server.js",
+    "backend": "cd backend && node server.js",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "swiggy2",
+    "social-food-ordering",
+    "group-delivery",
+    "supabase",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
